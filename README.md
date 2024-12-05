@@ -1,36 +1,29 @@
-# Bem-vindo ao meu GitHub!
+# Welcome to My GitHub Profile
 
-Olá, sou um estudante de Ciência da Computação na Universidade Federal do Espírito Santo. Este é o meu perfil no GitHub, onde compartilho projetos e soluções inovadoras que desenvolvi ao longo do meu percurso acadêmico.
+Hi, I'm MatheusSRMO! 👋
 
-## Sobre mim
+## About Me
 
-Tenho paixão por explorar as possibilidades da computação e buscar soluções eficientes para problemas reais. Meu interesse principal está na aplicação de tecnologias de ponta, como a Inteligência Artificial, para criar soluções avançadas e inovadoras.
+- 🔭 I’m currently working on [TucanoApp](https://tucano.app) using NextJs with TypeScript.
+- 🌱 I’m currently learning advanced TypeScript and cloud technologies.
+- 👯 I’m looking to collaborate on innovative web applications.
+- 🤔 I’m looking for help with recreating BOCA as CABO.
+- 💬 Ask me about web development and cloud solutions.
+- 📫 How to reach me: [matheus.tucano.app](https://matheus.tucano.app)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm passionate about creating seamless digital experiences.
 
-## Habilidades técnicas
+## My Projects
 
-Aqui estão algumas das habilidades técnicas que possuo:
+- **TucanoApp**: The main application using NextJs and TypeScript.
+- **TucanoCloud**: [cloud.tucano.app](https://cloud.tucano.app)
+- **TucanoDocs**: [docs.tucano.app](https://docs.tucano.app)
+- **CABO**: A recreation of BOCA - [cabo.tucano.app](https://cabo.tucano.app)
 
-- Linguagens de programação: Python, C, C#, JavaScript, SQL
-- Frameworks e ferramentas: Django, Flask, .NET Core, React
-- Interesse especial em Inteligência Artificial e suas aplicações
+## GitHub Stats
 
-Estou constantemente atualizando meus conhecimentos para acompanhar as tendências e avanços no campo da computação, especialmente em Inteligência Artificial.
+![MatheusSRMO's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusSRMO&show_icons=true&theme=radical)
 
-## Projetos
+## Top Languages
 
-Ao explorar meu repositório, você encontrará uma variedade de projetos, desde soluções simples a projetos mais complexos. Alguns exemplos incluem:
-
-- Implementação de algoritmos de aprendizado de máquina em Python.
-- Desenvolvimento de aplicativos web utilizando Django e Flask.
-- Construção de interfaces de usuário interativas com React.
-
-Fique à vontade para explorar meus projetos e fornecer qualquer feedback ou sugestões que possam ser úteis.
-
-## Contato
-
-Se você tiver alguma pergunta, sugestão ou desejar colaborar em algum projeto, fique à vontade para entrar em contato comigo. Você pode me encontrar através dos seguintes meios:
-
-- E-mail: [matheus.souzaribeiro@gmail.com](matheus.souzaribeiro@gmail.comm)
-- LinkedIn: [Matheus Ribeiro](https://www.linkedin.com/in/matheus-souza-ribeiro/)
-
-Agradeço por visitar meu perfil e espero que você encontre algo interessante aqui!
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusSRMO&layout=compact&theme=radical)
